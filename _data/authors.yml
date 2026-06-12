@@ -1,0 +1,32 @@
+work_persona:
+  name: "Anastasis Katsos"
+  avatar: "/assets/images/work-avatar.jpg" # Your custom music photo
+  bio: "Researcher"
+  location: "Athens, Greece"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourusername"
+
+music_persona:
+  name: "Anastasis Katsos"
+  avatar: "/assets/images/music-avatar.jpg" # Your custom music photo
+  bio: "Drummer"
+  location: "Athens, Greece"
+  links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
+
+astro_persona:
+  name: "Anastasis Katsos"
+  avatar: "/assets/images/astro-avatar.jpg" # Your custom hobby photo
+  bio: "Amateur astronomer & astrophotographer"
+  location: "Athens, Greece"
+  links:
+    - label: "AstroBin"
+      icon: "fab fa-fw fa-github"
+      url: "https://app.astrobin.com/u/TasosK"
