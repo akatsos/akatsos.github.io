@@ -3,12 +3,3 @@
   max-width: 200px; /* Change this number to make it bigger or smaller */
   width: 100%;      /* Ensures it still scales down properly on mobile phones */
 }
-
-
-/* The exact system font stack used by the default Minimal Mistakes theme */
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace: Monaco, Consolas, "Lucida Console", monospace;
-
-/* Import the theme (Must remain at the bottom) */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes";
