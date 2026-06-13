@@ -18,7 +18,7 @@ music_persona:
   location: "Athens, Greece"
   links:
     - label: "Youtube"
-      icon: "fa fa-youtube"
+      icon: "fab fa-youtube"
       url: "https://www.youtube.com/@AnastasisK96"
 
 astro_persona:

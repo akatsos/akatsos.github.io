@@ -16,7 +16,7 @@
 
 
 <!-- begin _includes/seo.html --><title>Anastasis Katsos</title>
-<meta name="description" content="An amazing website.">
+<meta name="description" content="Anastasis Katsos website.">
 
 
   <meta name="author" content="Anastasis Katsos">
@@ -30,7 +30,7 @@
 <meta property="og:url" content="https://akatsos.github.io/">
 
 
-  <meta property="og:description" content="An amazing website.">
+  <meta property="og:description" content="Anastasis Katsos website.">
 
 
 
@@ -59,7 +59,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-    "name": "Your Name",
+    "name": "Anastasis Katsos",
     "url": "https://akatsos.github.io/"
 }
 </script>
@@ -117,8 +117,10 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         
+          <a class="site-logo" href="/"><img src="/assets/images/88x88.png" alt=" "></a>
+        
         <a class="site-title" href="/">
-          Anastasis Katsos
+          
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
@@ -140,6 +142,11 @@
                 
               >Astrophotography</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -170,6 +177,12 @@
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
+    <div class="author__avatar">
+      <a href="https://akatsos.github.io/">
+        <img src="/assets/images/bio-photo.jpg" alt="Anastasis Katsos" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
@@ -177,7 +190,15 @@
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>I am a person.</p>
+        <table>
+  <tbody>
+    <tr>
+      <td>Deep Learning Researcher</td>
+      <td>Drummer</td>
+      <td>Astrophotographer</td>
+    </tr>
+  </tbody>
+</table>
 
       </div>
     
@@ -203,7 +224,7 @@
           
         
           
-            <li><a href="https://www.youtube.com/@AnastasisK96" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fa fa-youtube" aria-hidden="true"></i><span class="label">Youtube</span></a></li>
+            <li><a href="https://www.youtube.com/@AnastasisK96" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-youtube" aria-hidden="true"></i><span class="label">Youtube</span></a></li>
           
         
           
@@ -317,6 +338,18 @@ Welcome to my site.
     </div>
 
     
+      <div class="search-content">
+        
+<div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -353,7 +386,7 @@ Welcome to my site.
 </div>
 
 
-<div class="page__footer-copyright">&copy; 2013 - 2026 <a href="https://akatsos.github.io">Anastasis Katsos</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2026 <a href="https://akatsos.github.io">Anastasis Katsos</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -363,6 +396,12 @@ Welcome to my site.
   <script src="/assets/js/main.min.js"></script>
 
 
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
