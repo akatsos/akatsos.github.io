@@ -27,6 +27,9 @@ astro_persona:
   bio: "Amateur astronomer & astrophotographer"
   location: "Athens, Greece"
   links:
+    - label: "Astrophoto Blog"
+      icon: "fas fa-link"
+      url: "https://stellarsymmetry.blogspot.com/"
     - label: "AstroBin"
       icon: "fas fa-link"
       url: "https://app.astrobin.com/u/TasosK"
