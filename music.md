@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Music"
 permalink: /music/
 classes: theme-music

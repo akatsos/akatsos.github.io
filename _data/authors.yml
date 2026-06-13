@@ -6,10 +6,10 @@ work_persona:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/akatsos"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://linkedin.com/in/anastasis-katsos/"
 
 music_persona:
   name: "Anastasis Katsos"
@@ -18,8 +18,8 @@ music_persona:
   location: "Athens, Greece"
   links:
     - label: "Youtube"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      icon: "fa fa-youtube"
+      url: "https://www.youtube.com/@AnastasisK96"
 
 astro_persona:
   name: "Anastasis Katsos"
@@ -28,5 +28,5 @@ astro_persona:
   location: "Athens, Greece"
   links:
     - label: "AstroBin"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-link"
       url: "https://app.astrobin.com/u/TasosK"

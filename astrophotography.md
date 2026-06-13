@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Astrophotography"
 permalink: /astrophotography/
 classes: theme-astro

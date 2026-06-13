@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Work"
 permalink: /work/
 classes: theme-work

@@ -1,0 +1,15 @@
+# Jekyll generated files
+_site/
+
+# Jekyll caching folders
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler folders (if you ever install Jekyll locally)
+vendor/
+.bundle/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
