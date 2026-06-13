@@ -1,0 +1,5 @@
+/* Increase the size of the sidebar avatar */
+.author__avatar img {
+  max-width: 160px; /* Change this number to make it bigger or smaller */
+  width: 100%;      /* Ensures it still scales down properly on mobile phones */
+}
