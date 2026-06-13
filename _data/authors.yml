@@ -1,6 +1,6 @@
 work_persona:
   name: "Anastasis Katsos"
-  avatar: "/assets/images/music_photo.png" # Your custom music photo
+  avatar: "/assets/images/music_photo.png"
   bio: "Researcher"
   location: "Athens, Greece"
   links:
@@ -13,7 +13,7 @@ work_persona:
 
 music_persona:
   name: "Anastasis Katsos"
-  avatar: "/assets/images/music_photo.png" # Your custom music photo
+  avatar: "/assets/images/music_photo.png"
   bio: "Drummer"
   location: "Athens, Greece"
   links:
@@ -23,7 +23,7 @@ music_persona:
 
 astro_persona:
   name: "Anastasis Katsos"
-  avatar: "/assets/images/music_photo.png" # Your custom hobby photo
+  avatar: "/assets/images/music_photo.png"
   bio: "Amateur astronomer & astrophotographer"
   location: "Athens, Greece"
   links:
