@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Music"
+title: "MUSIC"
 permalink: /music/
 classes: theme-music
 author_profile: true

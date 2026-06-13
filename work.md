@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Work"
+title: "WORK"
 permalink: /work/
 classes: theme-work
 author_profile: true
