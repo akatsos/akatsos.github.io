@@ -7,6 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.layout--single {
+  background-color: #fafafa;
+}
+
+.masthead {
+  background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
+  
+  /* Optional: Adds a subtle shadow for depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
 
 .author__avatar img {
   max-width: 190px; /* Default is 110px. Adjust this value to your liking */
@@ -16,7 +26,7 @@
 /* 2. Add a Background to the Author Profile */
 .h-card {
   background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
-  padding: 1.5em;            /* Adds breathing room inside the background box */
+  padding: 1em;            /* Adds breathing room inside the background box */
   border-radius: 8px;        /* Rounds the corners of the background box */
   
   /* Optional: Adds a subtle shadow for depth */
