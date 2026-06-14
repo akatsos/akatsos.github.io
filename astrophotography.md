@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ASTROPHOOGRAPHY"
+title: "ASTROPHOTOGRAPHY"
 permalink: /astrophotography/
 classes: theme-astro
 author_profile: true
