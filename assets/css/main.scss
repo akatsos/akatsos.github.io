@@ -1,0 +1,14 @@
+.author__avatar img {
+  max-width: 180px; /* Default is 110px. Adjust this value to your liking */
+  width: 100%;      /* Ensures the image scales down properly on mobile */
+}
+
+/* 2. Add a Background to the Author Profile */
+.h-card {
+  background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
+  padding: 1.5em;            /* Adds breathing room inside the background box */
+  border-radius: 8px;        /* Rounds the corners of the background box */
+  
+  /* Optional: Adds a subtle shadow for depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
