@@ -6,10 +6,8 @@
 }
 
 /* 2. Make the profile picture bigger on desktop */
-@media (min-width: 64em) {
-  .sidebar .author__avatar img {
-    max-width: 190px; /* Change this number to make it bigger or smaller */
-    width: 100%; 
-    margin: 0 auto 1em; 
-  }
+.sidebar .author__avatar img {
+  max-width: 190px; /* Change this number to make it bigger or smaller */
+  width: 100%; 
+  margin: 0 auto 1em; 
 }
