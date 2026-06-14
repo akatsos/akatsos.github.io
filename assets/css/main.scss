@@ -11,15 +11,18 @@
   background-color: #fafafa;
 }
 
+/* Masthead */
 .masthead {
-  background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
-  
-  /* Optional: Adds a subtle shadow for depth */
+  background-color: #f2f2f2;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
 
+.masthead * {
+  background-color: #f2f2f2;
+}
+
 .author__avatar img {
-  max-width: 190px; /* Default is 110px. Adjust this value to your liking */
+  max-width: 200px; /* Default is 110px. Adjust this value to your liking */
   width: 100%;      /* Ensures the image scales down properly on mobile */
 }
 
