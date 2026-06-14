@@ -1,12 +1,12 @@
 .sidebar {
-  background-color: #f2f6f8 !important;; 
+  background-color: #6f9db4 !important;
   padding: 1.5em;
-  border-radius: 10px !important;; 
+  border-radius: 10px !important;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); 
 }
 
 /* 2. Make the profile picture bigger on desktop */
-.sidebar .author__avatar img {
+.author__avatar img {
   max-width: 190px; /* Change this number to make it bigger or smaller */
   width: 100%; 
   margin: 0 auto 1em; 
