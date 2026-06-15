@@ -36,6 +36,15 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
 
+/* Body */
+.page__inner-wrap{
+  background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
+  padding: 1em;            /* Adds breathing room inside the background box */
+  border-radius: 8px;        /* Rounds the corners of the background box */
+  
+  /* Optional: Adds a subtle shadow for depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
 
 /* Footer */
 .page__footer {
