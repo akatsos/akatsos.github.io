@@ -17,13 +17,13 @@
 
 /* Masthead */
 .masthead {
-  background-color: #f2f2f2;
+  background-color: #f2f2f290;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
   opacity: 0.75;
 }
 
 .masthead * {
-  background-color: #f2f2f2;
+  background-color: #f2f2f290;
   opacity: 0.75;
 }
 
@@ -50,7 +50,7 @@
 
 /* Body */
 .page__inner-wrap{
-  background-color: #f2f2f2; /* Light gray background. Change hex code as needed */
+  background-color: #f2f2f290; /* Light gray background. Change hex code as needed */
   padding: 1em;            /* Adds breathing room inside the background box */
   border-radius: 8px;        /* Rounds the corners of the background box */
   
@@ -62,18 +62,16 @@
 /* Footer */
 .page__footer {
   margin-top: 0em;
-  background-color: #f2f2f2;
+  background-color: #f2f2f290;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
   opacity: 0.75;
 }
 
 .page__footer * {
-  background-color: #f2f2f2;
-  opacity: 0.75;
+  background-color: #f2f2f290;
 }
 
 .page__footer footer {
   margin-top: 1em;
   padding: 0 1em 1em;
-  opacity: 0.75;
 }
