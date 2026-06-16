@@ -1,3 +1,12 @@
 {% if page.dark_theme %}
-  <link rel="stylesheet" href="{{ '/assets/css/astro.css' | relative_url }}">
+  <!-- 1. Load your newly generated dark theme -->
+  <link rel="stylesheet" href="{{ '/assets/css/alternate.css' | relative_url }}">
+  
+  <!-- 2. Instantly unplug the default light theme so they don't fight -->
+  <script>
+    var lightTheme = document.querySelector('link[href*="main.css"]');
+    if (lightTheme) {
+      lightTheme.remove();
+    }
+  </script>
 {% endif %}
