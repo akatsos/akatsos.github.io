@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/* 1. Import the specific skin you want for this single page /
+/ Options include: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise */
+@import "minimal-mistakes/skins/dark";
+
+/* 2. Import the main theme components */
+@import "minimal-mistakes";

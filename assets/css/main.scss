@@ -11,13 +11,14 @@
   background-color: #fafafa;
 }
 
-.layout--single.theme-astro {
-  background-color: #151515; /* Replace with your desired hex code */
-}
+// .layout--single.theme-astro {
+//   background-color: #151515; /* Replace with your desired hex code */
+// }
 
 /* Masthead */
 .masthead {
   background-color: #f2f2f2bf;
+  border-bottom: 0px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
 
