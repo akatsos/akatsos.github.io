@@ -9,3 +9,61 @@
 
 /* 2. Import the main theme components */
 @import "minimal-mistakes";
+
+/* Masthead */
+.masthead {
+  background-color: #1a1d24bf;
+  border-bottom: 0px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
+
+.masthead * {
+  background-color: #1a1d2400;
+}
+
+.masthead__menu-item * {
+  font-weight: bold;
+}
+
+
+/*Sidebar*/
+.author__avatar img {
+  max-width: 220px; /* Default is 110px. Adjust this value to your liking */
+  width: 100%;      /* Ensures the image scales down properly on mobile */
+}
+
+/* 2. Add a Background to the Author Profile */
+.h-card {
+  background-color: #1a1d24; /* Light gray background. Change hex code as needed */
+  padding: 1em;            /* Adds breathing room inside the background box */
+  border-radius: 8px;        /* Rounds the corners of the background box */
+  
+  /* Optional: Adds a subtle shadow for depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
+
+/* Body */
+.page__inner-wrap{
+  background-color: #1a1d24bf; /* Light gray background. Change hex code as needed */
+  padding: 1em;            /* Adds breathing room inside the background box */
+  border-radius: 8px;        /* Rounds the corners of the background box */
+  
+  /* Optional: Adds a subtle shadow for depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
+
+/* Footer */
+.page__footer {
+  margin-top: 0em;
+  background-color: #1a1d24bf;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
+}
+
+.page__footer * {
+  background-color: #1a1d2400;
+}
+
+.page__footer footer {
+  margin-top: 1em;
+  padding: 0 1em 1em;
+}
