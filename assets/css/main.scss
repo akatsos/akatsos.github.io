@@ -35,6 +35,9 @@
 .author__avatar img {
   max-width: 220px; /* Default is 110px. Adjust this value to your liking */
   width: 100%;      /* Ensures the image scales down properly on mobile */
+  border-radius: 20%;
+  display: block;
+  margin: 0 auto;
 }
 
 /* 2. Add a Background to the Author Profile */
