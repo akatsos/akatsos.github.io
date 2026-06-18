@@ -56,8 +56,28 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
 
-.page__content p {
-  font-size: 18px;
+/* Tablet */
+@media (min-width: 48em) { 
+  .page__content p, 
+  .page__content li { 
+    font-size: 15px !important;
+  } 
+} 
+
+/* Laptop */
+@media (min-width: 64em) { 
+  .page__content p, 
+  .page__content li { 
+    font-size: 16px !important;
+  } 
+} 
+
+/* Large Desktop */
+@media (min-width: 80em) { 
+  .page__content p, 
+  .page__content li { 
+    font-size: 18px !important;
+  } 
 }
 
 /* Footer */
