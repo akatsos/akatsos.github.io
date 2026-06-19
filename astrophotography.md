@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ASTROPHOTOGRAPHY"
+title: ""
 permalink: /astrophotography/
 author_profile: true
 author: astro_persona
