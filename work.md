@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "WORK"
+title: "CV"
 classes: wide
-permalink: /work/
+permalink: /cv/
 classes: theme-work
 author_profile: true
 author: work_persona
 ---
 
-Work test :)
+CV test :)
