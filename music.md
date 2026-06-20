@@ -13,32 +13,32 @@ I love listening to music.
 I have been playing drums for more than 15 years and have joined numerous bands. 
 Below you can see some of the bands I am currently in.
 
-<h2 style="padding-bottom: 0px; margin-bottom: 0px">Fallen Arise</h2>
-<p style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;"><em>2024 - Present</em></p>
+<h2 class="band-title">Fallen Arise</h2>
+<p class="band-timeline">2024 - Present</p>
 
-<figure>
-
-    {% include video id="wjxHRW8TdTw" provider="youtube" %}
-
-    <figcaption>Heart of The Damned live at Seawolves Bike Fest, Romania </figcaption>
+<figure class="custom-video-figure">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/wjxHRW8TdTw" allowfullscreen></iframe>
+  </div>
+  <figcaption>Heart of The Damned live at Seawolves Bike Fest, Romania</figcaption>
 </figure>
 
-<h2 style="padding-bottom: 0px; margin-bottom: 0px">Dissenting Minds</h2>
-<p style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;"><em>2020 - Present</em></p>
+<h2 class="band-title">Dissenting Minds</h2>
+<p class="band-timeline">2020 - Present</p>
 
-<figure>
-
-    {% include video id="MVWTOwb7gLU" provider="youtube" %}
-
-    <figcaption>A Dark Purpose Playthrough</figcaption>
+<figure class="custom-video-figure">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
+  </div>
+  <figcaption>A Dark Purpose Playthrough</figcaption>
 </figure>
 
-<h2 style="padding-bottom: 0px; margin-bottom: 0px">Lycans</h2>
-<p style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;"><em>2015 - Present</em></p>
+<h2 class="band-title">Lycans</h2>
+<p class="band-timeline">2015 - Present</p>
 
-<figure>
-
-    {% include video id="MVWTOwb7gLU" provider="youtube" %}
-
-    <figcaption>Avenged live at Remedy Club, Athens</figcaption>
+<figure class="custom-video-figure">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
+  </div>
+  <figcaption>Avenged live at Remedy Club, Athens</figcaption>
 </figure>
