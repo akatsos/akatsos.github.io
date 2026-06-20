@@ -16,7 +16,7 @@ Below you can see some of the bands I am currently in.
 <h2 class="band-title">Fallen Arise</h2>
 <p class="band-timeline">2024 - Present</p>
 
-<figure class="custom-video-figure">
+<figure class="custom-video-figure" markdown="0">
   <div class="video-container">
     <iframe src="https://www.youtube.com/embed/wjxHRW8TdTw" allowfullscreen></iframe>
   </div>
@@ -26,7 +26,7 @@ Below you can see some of the bands I am currently in.
 <h2 class="band-title">Dissenting Minds</h2>
 <p class="band-timeline">2020 - Present</p>
 
-<figure class="custom-video-figure">
+<figure class="custom-video-figure" markdown="0">
   <div class="video-container">
     <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
   </div>
@@ -36,7 +36,7 @@ Below you can see some of the bands I am currently in.
 <h2 class="band-title">Lycans</h2>
 <p class="band-timeline">2015 - Present</p>
 
-<figure class="custom-video-figure">
+<figure class="custom-video-figure" markdown="0">
   <div class="video-container">
     <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
   </div>
