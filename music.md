@@ -18,7 +18,7 @@ Below you can see some of the bands I am currently in.
 
 <figure class="custom-video-figure" markdown="0">
   <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/wjxHRW8TdTw" allowfullscreen></iframe>
+    <iframe class="fitvidsignore" src="https://www.youtube.com/embed/wjxHRW8TdTw" frameborder="0" allowfullscreen></iframe>
   </div>
   <figcaption>Heart of The Damned live at Seawolves Bike Fest, Romania</figcaption>
 </figure>
@@ -28,7 +28,7 @@ Below you can see some of the bands I am currently in.
 
 <figure class="custom-video-figure" markdown="0">
   <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
+    <iframe class="fitvidsignore" src="https://www.youtube.com/embed/MVWTOwb7gLU" frameborder="0" allowfullscreen></iframe>
   </div>
   <figcaption>A Dark Purpose Playthrough</figcaption>
 </figure>
@@ -38,9 +38,7 @@ Below you can see some of the bands I am currently in.
 
 <figure class="custom-video-figure" markdown="0">
   <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
+    <iframe class="fitvidsignore" src="https://www.youtube.com/embed/MVWTOwb7gLU" frameborder="0" allowfullscreen></iframe>
   </div>
   <figcaption>Avenged live at Remedy Club, Athens</figcaption>
 </figure>
-
-<iframe class="fitvidsignore" width="560" height="315" src="https://www.youtube.com/embed/wjxHRW8TdTw" frameborder="0" allowfullscreen></iframe>
