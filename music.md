@@ -42,3 +42,5 @@ Below you can see some of the bands I am currently in.
   </div>
   <figcaption>Avenged live at Remedy Club, Athens</figcaption>
 </figure>
+
+<iframe class="fitvidsignore" width="560" height="315" src="https://www.youtube.com/embed/wjxHRW8TdTw" frameborder="0" allowfullscreen></iframe>
