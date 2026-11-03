@@ -7,7 +7,6 @@ author_profile: true
 author: work_persona
 ---
 
-
 <div class="cv-container">
 
   <!-- Work Experience -->
