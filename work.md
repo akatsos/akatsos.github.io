@@ -96,7 +96,7 @@ author: work_persona
   </section> -->
 
   <!-- Download CV Button -->
-  <div style="margin-bottom: 2rem; text-align: left;">
+  <div style="text-align: left;">
     <a href="{{ '/assets/docs/Anastasis_Katsos_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="button-4" role="button">Download CV</a>
   </div>
 
