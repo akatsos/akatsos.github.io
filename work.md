@@ -11,7 +11,7 @@ author: work_persona
 
   <!-- Work Experience -->
   <section class="cv-section">
-    <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Work Experience</h2>
+    <h2 style="margin-top: 0em; padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Work Experience</h2>
 
     <div class="cv-item">
       <div class="cv-header">
@@ -87,13 +87,13 @@ author: work_persona
     </div>
   </section>
 
-  <!-- Certifications, Skills & Interests -->
+  <!-- Certifications, Skills & Interests
   <section class="cv-section">
     <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Certifications, Skills &amp; Interests</h2>
     <ul>
       <li><strong>Languages:</strong> English – C2 Proficiency (Michigan ECPE), French – A2 (DELF)</li>
     </ul>
-  </section>
+  </section> -->
 
   <!-- Download CV Button -->
   <div style="margin-bottom: 2rem; text-align: left;">
