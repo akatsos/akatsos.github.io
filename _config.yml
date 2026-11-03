@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Anastasis Katsos"
-  avatar           : "/assets/images/music_photo.png"
+  avatar           : "/assets/images/ak_photo.png"
   bio              : "Deep Learning Researcher, Drummer, Astrophotographer"
   location         : "Athens, Greece"
   email            : "anastasis.katsos[at]gmail.com"
