@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: ""
 classes: wide
 permalink: /cv/
 author_profile: true
@@ -12,7 +12,7 @@ author: work_persona
 
   <!-- Work Experience -->
   <section class="cv-section">
-    <h2>Work Experience</h2>
+    <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Work Experience</h2>
 
     <div class="cv-item">
       <div class="cv-header">
@@ -52,7 +52,7 @@ author: work_persona
 
   <!-- Education -->
   <section class="cv-section">
-    <h2>Education</h2>
+    <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Education</h2>
 
     <div class="cv-item">
       <div class="cv-header">
@@ -90,7 +90,7 @@ author: work_persona
 
   <!-- Certifications, Skills & Interests -->
   <section class="cv-section">
-    <h2>Certifications, Skills &amp; Interests</h2>
+    <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Certifications, Skills &amp; Interests</h2>
     <ul>
       <li><strong>Languages:</strong> English – C2 Proficiency (Michigan ECPE), French – A2 (DELF)</li>
     </ul>
