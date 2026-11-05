@@ -40,7 +40,7 @@ dark_theme: true
     }
 
     img {
-        border-radius: 20%;
+        border-radius: 5%;
         display: block; 
         margin: 0 auto;
     }
