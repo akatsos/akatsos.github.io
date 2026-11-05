@@ -10,7 +10,7 @@ dark_theme: true
 
 <h2 style="">Astrophotography</h2>
 
-<h4>Horsehead and Flame Nebulae</h4>
+<h4>Horsehead and Flame Nebulae (B33)</h4>
 <img src="{{ '/assets/images/astro/HorseheadFlame.jpg' | relative_url }}" alt="Horsehead and Flame Nebulae">
 
 <h4>Eagle Nebula (M16)</h4>
@@ -40,7 +40,7 @@ dark_theme: true
     }
 
     img {
-        border-radius: 5%;
+        border-radius: 2%;
         display: block; 
         margin: 0 auto;
     }
