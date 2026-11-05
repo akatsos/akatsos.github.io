@@ -23,7 +23,7 @@ music_persona:
 
 astro_persona:
   name: "Anastasis Katsos"
-  avatar: "/assets/images/ak_photo.jpg"
+  avatar: "/assets/images/astro_photo.jpg"
   bio: "Amateur astronomer & astrophotographer"
   location: "Athens, Greece"
   links:

@@ -7,7 +7,7 @@ author_profile: true
 author: music_persona
 ---
 
-<h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">About Me</h2>
+<h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Music</h2>
 
 I love listening to music.
 I have been playing drums for more than 15 years and have joined numerous bands. 
