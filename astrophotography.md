@@ -10,6 +10,7 @@ dark_theme: true
 
 <h2 style="">Astrophotography</h2>
 
+
 <h4>Horsehead and Flame Nebulae (B33)</h4>
 <img src="{{ '/assets/images/astro/HorseheadFlame.jpg' | relative_url }}" alt="Horsehead and Flame Nebulae">
 

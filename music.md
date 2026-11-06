@@ -10,11 +10,13 @@ author: music_persona
 <h2 style="padding-bottom: 0.5em; border-bottom: 1px solid #7c7c7c;">Music</h2>
 
 I love listening to music.
-I have been playing drums for more than 15 years and have joined numerous bands. 
+I have been playing drums for more than 15 years and have joined numerous bands.
 Below you can see some of the bands I am currently in.
 
 <h2 class="band-title">Fallen Arise</h2>
 <p class="band-timeline">2024 - Present</p>
+
+<p>Fallen Arise is a Symphonic metal band formed in Athens, Greece in 2009.</p>
 
 <figure class="custom-video-figure">
   <iframe class="fitvidsignore" src="https://www.youtube.com/embed/wjxHRW8TdTw" allowfullscreen></iframe>
@@ -24,6 +26,8 @@ Below you can see some of the bands I am currently in.
 <h2 class="band-title">Dissenting Minds</h2>
 <p class="band-timeline">2020 - Present</p>
 
+<p>Dissenting Minds is a Heavy/Black metal infused with death and post elements metal band formed in Athens, Greece in 2020.</p>
+
 <figure class="custom-video-figure">
   <iframe class="fitvidsignore" src="https://www.youtube.com/embed/MVWTOwb7gLU" allowfullscreen></iframe>
   <figcaption>A Dark Purpose Playthrough</figcaption>
@@ -31,6 +35,8 @@ Below you can see some of the bands I am currently in.
 
 <h2 class="band-title">Lycans</h2>
 <p class="band-timeline">2015 - Present</p>
+
+<p>Lycans is a Heavy/Power metal band formed in Athens, Greece in 2010.</p>
 
 <figure class="custom-video-figure">
   <iframe class="fitvidsignore" src="https://www.youtube.com/embed/tSTm9iyrETA" allowfullscreen></iframe>
